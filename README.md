@@ -32,6 +32,11 @@ This project was developed using the following tools and techniques:
 - **Data transformation and cleaning** to ensure quality and accuracy.
 - **Advanced visualizations** for delivering actionable insights.
 
+## Visual Representation
+
+![Dashboard Overview](![Consulting Case](https://github.com/user-attachments/assets/6e0bbe27-d90f-4b0b-800c-e894bbf718a0)
+)
+
 ## About the Project
 
 This case study was designed as a practical demonstration, highlighting my commitment to excellence in data analysis and visual storytelling. I would be happy to discuss this project further and explore how these skills can benefit your organization.
