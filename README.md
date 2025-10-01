@@ -23,7 +23,7 @@ The purpose of this project is to showcase my ability to:
 
 You can explore the interactive dashboard published on Power BI through the link below:
 
-👉 [Final Report Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjZhMWQxNzEtNWMzMi00ZTY3LWFjOTYtMWVkNDQ2MmMzZGJmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+ [Final Report Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjZhMWQxNzEtNWMzMi00ZTY3LWFjOTYtMWVkNDQ2MmMzZGJmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 ## Tools Used
 
@@ -43,4 +43,4 @@ This case study was designed as a practical demonstration, highlighting my commi
 
 ---
 
-Thank you for taking the time to review my work! 😊
+Thank you for taking the time to review my work! 
