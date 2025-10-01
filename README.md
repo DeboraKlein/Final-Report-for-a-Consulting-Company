@@ -34,8 +34,8 @@ This project was developed using the following tools and techniques:
 
 ## Visual Representation
 
-![Dashboard Overview](![Consulting Case](https://github.com/user-attachments/assets/6e0bbe27-d90f-4b0b-800c-e894bbf718a0)
-)
+![Dashboard Overview](https://github.com/user-attachments/assets/6e0bbe27-d90f-4b0b-800c-e894bbf718a0)
+
 
 ## About the Project
 
